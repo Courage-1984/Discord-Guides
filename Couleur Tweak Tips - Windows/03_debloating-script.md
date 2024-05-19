@@ -59,7 +59,11 @@ iex(irm christitus.com/win)
 
 
 
-**Find full resolution video [here]()**
+https://github.com/Courage-1984/Discord-Guides/assets/18268669/4059c414-9b7e-4700-a37d-1131ca6e1e23
+
+
+
+**Find full resolution video [here](https://github.com/Courage-1984/Discord-Guides/blob/main/Couleur%20Tweak%20Tips%20-%20Windows/videos/One%20Tool%20for%20Everything%20(2).mp4)**
 
 
 ⚠️ **Reminder**: No one is responsible if unexpected changes arise upon applying these tweaks.
@@ -77,5 +81,9 @@ https://s1.fileditch.ch/PQuWCdCNoJbFEdFCGoDr.mp4
 
 
 
-**Find full resolution video [here]()**
+https://github.com/Courage-1984/Discord-Guides/assets/18268669/6c242201-29dd-439c-adc9-65079ae5b7d1
+
+
+
+**Find full resolution video [here](https://github.com/Courage-1984/Discord-Guides/blob/main/Couleur%20Tweak%20Tips%20-%20Windows/videos/Windows%20Utility%20Improved%20for%202024.mp4)**
 
