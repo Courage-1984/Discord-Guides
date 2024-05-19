@@ -21,7 +21,11 @@ You can find a list of SHA checksums of genuine Windows ISOs here, just find you
 
 
 
-**Find full resolution video [here]()**
+https://github.com/Courage-1984/Discord-Guides/assets/18268669/6b0c2e64-cc04-49ca-a91a-367e06838425
+
+
+
+**Find full resolution video [here](https://github.com/Courage-1984/Discord-Guides/blob/main/Couleur%20Tweak%20Tips%20-%20Windows/videos/Get%20a%20.ISO%20file%20from%20Microsoft's%20website%20instead%20of%20an%20upgrade%20tool.mp4)**
 
 
 To verify a hash, just open powershell and type `Get-FileHash -Algorithm SHA256 -Path "~\Downloads\W10_21H2.iso"` (of course replace algorithm/file path accordingly
