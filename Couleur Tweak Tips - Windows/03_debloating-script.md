@@ -29,3 +29,7 @@ If you're in that "more tweaks = better" mindset (:WeirdChamp:) , this open-sour
 
 
 
+https://github.com/Courage-1984/Discord-Guides/assets/18268669/4f2e4c00-13d7-42fa-829c-4629ac9b30ba
+
+
+
