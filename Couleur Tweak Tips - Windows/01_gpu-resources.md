@@ -25,8 +25,12 @@ Driver tutorial by the other CTT: <https://youtu.be/LR1XkjtylCM>
 
 
 
+https://github.com/Courage-1984/Discord-Guides/assets/18268669/84f33385-89d9-48d9-9781-1383bfc62e68
 
-**Find full resolution video [here]()**
+
+
+
+**Find full resolution video [here](https://github.com/Courage-1984/Discord-Guides/blob/main/Couleur%20Tweak%20Tips%20-%20Windows/videos/We%20have%20been%20installing%20nVidia%20drivers%20WRONG!%20(2).mp4)**
 
 
 **More relevant text-based guide by 🐐 OverImagine:** <https://rentry.co/NVIDIAOptimize>
