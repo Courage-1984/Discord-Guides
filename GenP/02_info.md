@@ -38,4 +38,4 @@
 
 **You'll probably find the answer in one of those.**
 
-![](./zwrtYrj.png)
+![](./images/zwrtYrj.png)
