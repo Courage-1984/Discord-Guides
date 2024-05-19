@@ -45,6 +45,12 @@ https://streamable.com/0jx4nu
 
 ![](./videos/Streamablevideo0jx4nu.mp4)
 
+
+
+https://github.com/Courage-1984/Discord-Guides/assets/18268669/36487c83-962a-4159-9246-6f73914b89ec
+
+
+
 shit made me laugh my ass off, **How to :TrollFace:  the Microsoft log in on Windows 11 OOBE**
 :so: Tellinq
 
