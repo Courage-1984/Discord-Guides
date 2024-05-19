@@ -15,6 +15,15 @@ It's important to check your ISO's hash to see if it has not been altered, corru
 
 You can find a list of SHA checksums of genuine Windows ISOs here, just find your build with the right language/update: <https://msdn.rg-adguard.net> (if it is down see <http://youtu.be/PY_K6QX3xfk>)
 
+![](./videos/Get%20a%20.ISO%20file%20from%20Microsoft's%20website%20instead%20of%20an%20upgrade%20tool.mp4)
+
+**Get a .ISO file from Microsoft's website instead of an upgrade tool [PY_K6QX3xfk]**
+
+
+
+**Find full resolution video [here]()**
+
+
 To verify a hash, just open powershell and type `Get-FileHash -Algorithm SHA256 -Path "~\Downloads\W10_21H2.iso"` (of course replace algorithm/file path accordingly
 
 > **Set up a bootable USB drive**

@@ -18,6 +18,17 @@
 
 Driver tutorial by the other CTT: <https://youtu.be/LR1XkjtylCM>
 
+![](./videos/We%20have%20been%20installing%20nVidia%20drivers%20WRONG!%20(2).mp4)
+
+
+**We have been installing nVidia drivers WRONG! [LR1XkjtylCM]**
+
+
+
+
+**Find full resolution video [here]()**
+
+
 **More relevant text-based guide by 🐐 OverImagine:** <https://rentry.co/NVIDIAOptimize>
 
 :dot:NVCleanstall: <https://www.techpowerup.com/download/techpowerup-nvcleanstall/>

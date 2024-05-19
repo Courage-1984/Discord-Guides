@@ -33,3 +33,49 @@ https://github.com/Courage-1984/Discord-Guides/assets/18268669/4f2e4c00-13d7-42f
 
 
 
+> :CTT: **Chris Titus' Windows Utility [V2]**
+
+A PowerShell toolbox with an installer (uses Winget, use #📥｜post-installer if you prefer Scoop), and some very sane recommended settings, I'd recommend this over Post Tweaks (unless you're living on the edge)
+
+:Download: **Run** (You don't need to download it, just paste this command in Powershell:)
+```ps
+iex(irm christitus.com/win)
+```
+:gh: **Code**
+
+<https://github.com/ChrisTitusTech/winutil> (GPL-3.0)
+
+🙋**Support**
+
+<https://github.com/ChrisTitusTech/winutil/issues>
+
+:youtube: **Presentation video**
+
+<https://youtu.be/vXyMScSbhk4>
+
+![](./videos/One%20Tool%20for%20Everything%20(2).mp4)
+
+**One Tool for Everything [vXyMScSbhk4]**
+
+
+
+**Find full resolution video [here]()**
+
+
+⚠️ **Reminder**: No one is responsible if unexpected changes arise upon applying these tweaks.
+
+👀 **Complete tour**
+
+https://s1.fileditch.ch/PQuWCdCNoJbFEdFCGoDr.mp4
+
+
+<https://youtu.be/5_AaHXrelTE>
+
+![](./videos/Windows%20Utility%20Improved%20for%202024.mp4)
+
+**Windows Utility Improved for 2024 [5_AaHXrelTE]**
+
+
+
+**Find full resolution video [here]()**
+
