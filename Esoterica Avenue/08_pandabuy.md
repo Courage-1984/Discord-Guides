@@ -31,3 +31,66 @@ r/Pandabuy: [Reddit](https://www.reddit.com/r/Pandabuy), [Discord](https://disco
 2. Add to cart/buy now:
 
 ![](./images/2.jpg)
+
+3. Submit order:
+
+![](./images/3.jpg)
+
+4. Check out
+
+![](./images/4.jpg)
+
+5. Wait for the product to arrive to warehouse & get QC (Quality Check) pictures:
+
+![](./images/5.jpg)
+
+
+### **4. How to avoid taxes?**
+
+US / Canda: Customs are pretty relaxed in these countries. shipping hauls up to 10kg generally isn't a problem there. Some people even do more. Do so at your own risk. For the USA, the declaration value doesn't matter much, as you are unlikely to be taxed. For Canada, declare the package 10-14USD. Also, If you live in Canada, it is advised that you use EMS or GD-SAL. If you use DHL, you will be taxed upon package arrival.
+
+Europe Checklist: You may have to look up laws for any import fees or regulations. These numbers are an example for shipping to Germany, it should work for any country though.
+
+* Stay within .9 of a KG. Read here for more information
+* Try to stay at a maximum of 4kg. Do not go over this for the safest rate.
+* If possible ask for no cardboard wrapping, let them package in DHL plastic bag
+* Ask for vacuum sealing (Possible in the fewest cases)
+* Ask them to wrap up your whole package with tape, a lot of tape.
+* Let them put a Commercial invoice on the outside (!)! of your package
+* The commercial invoice should have a value UNDER $24 including shipping costs
+* The commercial invoice has to be readable, if it has printing errors it has to be printed again
+* The commercial invoice has to state the shipping costs with a value >$0
+* The commercial invoice has to have a sender address
+* Your telephone number has to be stated on the commercial invoice
+* Let them send you a copy of the commercial invoice to your email (Will come back to this)
+
+**It is strongly advised that you go to Google and type in "[Your country] customs fashionreps/pandabuy".**
+
+![](./images/6.jpg)
+
+_ _
+
+## **Pandabuy Shipping Tips**
+
+* Watch [this shipping costs guide post](https://www.reddit.com/r/FashionReps/comments/acw6nk/as_requested_a_short_explanation_to_superbuy), it talks about Superbuy (like Pandabuy but worse), but it's the same for Pandabuy.
+* You can ship shoeboxes - Do not ship more than 2 shoeboxes in one package
+* You can ship as many packages as you want simultaneously
+* Think twice before shipping shoeboxes, if you don't need them, don't ship them and Pandabuy will throw them away. They're heavy and require volumetric weight.
+* If you have a non-Rep haul then you can probably use other shipping methods. Decide on your own.
+* If Pandabuy does not let you pay for your replicas directly through Paypal, just top up your account balance and then pay through your balance.
+
+## **Recommended Seller List**
+
+The two I recommend the most are:
+* [Husky Reps](https://husky-reps.x.yupoo.com/categories/3858049)
+* [Dripper](https://dripper.x.yupoo.com/)
+they have almost everything, but if you couldn't find what you looked for check [r/FashionReps List](https://www.reddit.com/r/FashionReps/wiki/trusted) out!
+
+_ _
+
+Rentry Mirror: https://rentry.org/pandabuyguide
+
+Credits: https://www.reddit.com/r/FashionReps
+
+**Enjoy! If you have any more questions feel free to ask in the communities I recommended or or DM me. \:)**
+
