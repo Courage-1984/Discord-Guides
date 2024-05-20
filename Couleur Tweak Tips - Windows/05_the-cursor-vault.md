@@ -14,7 +14,11 @@ Showcase: https://youtu.be/YThelfB2fvg?t=566
 
 
 
-**Find full resolution video [here]()**
+https://github.com/Courage-1984/Discord-Guides/assets/18268669/84931e19-a53c-4c2b-b6d0-173d72b8fbc5
+
+
+
+**Find full resolution video [here](https://github.com/Courage-1984/Discord-Guides/blob/main/Couleur%20Tweak%20Tips%20-%20Windows/videos/Mouse%20Cursor%20History%20(and%20why%20I%20made%20my%20own)%20%5B854x480%5D.mp4)**
 
 
 ![](./images/maxresdefault-F68A4.jpg)
